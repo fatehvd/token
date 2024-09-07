@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 anchor-lang = "0.29.0"
-solana-program = "1.16.0"
+solana-program = "1.16.0"  # به‌روزترین نسخه Solana
 
 [lib]
 crate-type = ["cdylib", "lib"]
